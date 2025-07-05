@@ -55,7 +55,7 @@ This project uses **Unsupervised Machine Learning** to segment bank customers in
 
 ## 🚀 Run in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/an-up-am/Bank-Customer-Segmentation/blob/main/Bank_Segmentation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/an-up-am/Bank-Customer-Segmentation/blob/main/Bank_Customer_Segmentation.ipynb)
 
 ---
 
