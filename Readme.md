@@ -1,8 +1,4 @@
-# 🏦 Bank Customer Segmentation using Machine Learning
-
-**[Live Demo → Click Here](https://bank-customers-segmentation.streamlit.app/)**  
-Built and deployed by **Anupam Chauhan | Data Analyst, Accenture AI**
-
+# Bank Customer Segmentation using Machine Learning
 ---
 
 ## Project Overview
@@ -66,7 +62,11 @@ This project applies **Unsupervised Machine Learning** to segment bank customers
 ## Try It Yourself
 
 ### **Run the Web App**
-👉 [Live Streamlit App](https://bank-customers-segmentation.streamlit.app/)
+
+**[Live Demo → Click Here](https://bank-customers-segmentation.streamlit.app/)**  
+Built by **Anupam Chauhan**
+
+
 
 ### **Run the Notebook**
 Open directly in Google Colab:  
@@ -77,5 +77,3 @@ Open directly in Google Colab:
 ## Author
 
 **Anupam Chauhan**  
----
-
