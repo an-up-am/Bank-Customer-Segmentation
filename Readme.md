@@ -54,19 +54,17 @@ This project applies **Unsupervised Machine Learning** to segment bank customers
 | Criteria | Hierarchical | K-Means |
 |-----------|--------------|---------|
 | **Silhouette Score** | 0.393 | 0.452 |
-| **Interpretability** | ✅ Dendrogram | ⚙️ Fixed `k` required |
-| **Scalability** | ❌ Slow on large data | ✅ Highly scalable |
+| **Interpretability** | Dendrogram | Fixed `k` required |
+| **Scalability** | Slow on large data | Highly scalable |
 
 ---
-
-## Try It Yourself
 
 ### **Run the Web App**
 
 **[Live Demo → Click Here](https://bank-customers-segmentation.streamlit.app/)**  
 Built by **Anupam Chauhan**
 
-
+---
 
 ### **Run the Notebook**
 Open directly in Google Colab:  
