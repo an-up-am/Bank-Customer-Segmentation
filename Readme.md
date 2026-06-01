@@ -1,17 +1,17 @@
 # 🏦 Bank Customer Segmentation using Machine Learning
 
-🎯 **[Live Demo → Click Here](https://bank-customers-segmentation.streamlit.app/)**  
-🚀 Built and deployed by **Anupam Chauhan | Data Analyst, Accenture AI**
+**[Live Demo → Click Here](https://bank-customers-segmentation.streamlit.app/)**  
+Built and deployed by **Anupam Chauhan | Data Analyst, Accenture AI**
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project applies **Unsupervised Machine Learning** to segment bank customers into distinct behavioral groups — helping banks and marketers target customers with **personalized offers** and **data-driven strategies**.
 
 ---
 
-## 🧠 Techniques & Tools
+## Techniques & Tools
 
 - **Goal:** Cluster customers for marketing segmentation  
 - **Techniques:** EDA, Feature Scaling, Outlier Detection, K-Means, Hierarchical Clustering, PCA  
@@ -19,7 +19,7 @@ This project applies **Unsupervised Machine Learning** to segment bank customers
 
 ---
 
-## 📁 Files in This Repository
+## Files in This Repository
 
 | File | Description |
 |------|--------------|
@@ -32,20 +32,20 @@ This project applies **Unsupervised Machine Learning** to segment bank customers
 
 ---
 
-## 📊 Clustering Techniques Used
+## Clustering Techniques Used
 
-### 🔹 **K-Means Clustering**
+### **K-Means Clustering**
 - Optimal cluster count using **Elbow Method**
 - **Silhouette Score:** `0.452`
 - **Visualized with PCA** for 2D cluster mapping
 
-### 🔹 **Hierarchical Clustering**
+### **Hierarchical Clustering**
 - Dendrogram visualization
 - **Silhouette Score:** `0.393`
 
 ---
 
-## 📈 Visualization & Analysis
+## Visualization & Analysis
 
 - Boxplots and KDE plots for feature distribution  
 - Correlation heatmap for feature relationships  
@@ -53,7 +53,7 @@ This project applies **Unsupervised Machine Learning** to segment bank customers
 
 ---
 
-## 🧪 Model Evaluation
+## Model Evaluation
 
 | Criteria | Hierarchical | K-Means |
 |-----------|--------------|---------|
@@ -63,24 +63,19 @@ This project applies **Unsupervised Machine Learning** to segment bank customers
 
 ---
 
-## 🚀 Try It Yourself
+## Try It Yourself
 
-### ▶️ **Run the Web App**
+### **Run the Web App**
 👉 [Live Streamlit App](https://bank-customers-segmentation.streamlit.app/)
 
-### 💻 **Run the Notebook**
+### **Run the Notebook**
 Open directly in Google Colab:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/an-up-am/Bank-Customer-Segmentation/blob/main/Bank_Customer_Segmentation.ipynb)
 
 ---
 
-## 👨‍💻 Developed By
+## Author
 
 **Anupam Chauhan**  
-Data Analyst | Accenture AI  
-
-📫 [LinkedIn](https://www.linkedin.com/in/anupam-iit-kgp/)  
-⭐ Star this repo if you found it useful!
-
 ---
 
