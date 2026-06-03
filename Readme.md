@@ -98,7 +98,7 @@ Three distinct clusters emerged from the analysis:
 **Run Locally**
 
 ```bash
-git clone https://github.com/your-username/bank-customer-segmentation
+git clone https://github.com/an-up-am/bank-customer-segmentation
 cd bank-customer-segmentation
 pip install -r requirements.txt
 streamlit run app.py
